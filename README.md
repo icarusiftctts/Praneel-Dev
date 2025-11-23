@@ -1,7 +1,5 @@
 # Praneel Dev
 
-[![Holopin Badges](https://holopin.me/icarusiftctts)](https://holopin.io/@icarusiftctts)
-
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]()
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
@@ -12,58 +10,79 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
----
+[![Holopin Badges](https://holopin.me/icarusiftctts)](https://holopin.io/@icarusiftctts)
 
-**2nd Year Computer Science Engineering Student**  
-Java & Flutter Software Developer | Cloud, Web & Mobile Enthusiast
+### Backend & Mobile Developer — Java • Spring Boot • Flutter
 
----
-
-🚀 **Tagline:**  
-_Building robust Java, Flutter, and AWS-powered solutions for scalable cloud, web, and cross-platform mobile applications. Passionate about backend, Android, and full-stack software engineering._
+Second-year CSE student building production-ready systems used by real users, not just demo apps.
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🔧 Tech Stack
 
-- **Languages:** Java, Dart, C
-- **Frameworks:** Flutter (Mobile & Web), Spring Boot
-- **Platforms:** Android, AWS, Flutter Web
-- **Tools:** Docker, CMake, Git
-
----
-
-## 📚 Notable Projects
-
-- [**Odins_eye_2025**](https://github.com/icarusiftctts/Odins_eye_2025)  
-  _Java | Odin's Eye App source for Plinth 2025_
-
-- [**ccell_notification_api**](https://github.com/icarusiftctts/ccell_notification_api)  
-  _Java, Docker | Notification API for CCell ecosystem_
-
-- [**ccell**](https://github.com/ccell2026/ccell)  
-  _Dart, C++, Swift, Java | Multi-language project powering CCell's cross-platform experience_
+**Languages:** Java, Dart, C  
+**Frameworks:** Spring Boot, Flutter  
+**Backend & Cloud:** AWS (Lambda, RDS, IAM, API Gateway, ElastiCache), Render, Aiven  
+**Databases:** MySQL, Redis  
+**Tools:** Git/GitHub, Docker, Postman, Firebase Auth & FCM
 
 ---
 
-## 🌱 About Me
+## 🚀 Highlighted Projects
 
-- 👨‍💻 Currently exploring cloud, backend, and cross-platform mobile/web app development.
-- 🔍 Interested in scalable backend systems, Android, and DevOps with AWS.
-- 📚 Active contributor to open source and campus tech communities.
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneel-dev-3b9754321/)
+### 🔹 C-Cell Notification API  
+**Java • Spring Boot • MySQL • Render/Aiven**  
+Backend and REST API powering notifications and authentication for **2,500+ students** with **sub-50ms response times** and zero cold starts.  
+Repo: https://github.com/icarusiftctts/ccell_notification_api
 
 ---
 
-[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com/)
+### 🔹 Campus Bus Booking System (Backend)  
+**Java • Spring Boot • AWS Lambda • RDS • Redis**  
+End-to-end backend for a campus-wide bus reservation platform for **3,000 students + faculty**, including:  
+- concurrent booking handling  
+- waitlist and swap-token flow  
+- separate logic for students, conductors, and admin  
+Approved for deployment by college authorities.  
+Repo: https://github.com/icarusiftctts/campus-bus-backend
 
 ---
 
-<!--
-SEO Keywords: Praneel Dev, Java Developer, Flutter Developer, Android Developer, AWS, Spring Boot, Cross-Platform Apps, Cloud Software Engineer, Computer Science Student, Backend Developer, Open Source Contributor, Mobile App Developer, Holopin Badges, Hacktoberfest 2025, C Developer, Dart Developer, Flutter Web, Full Stack Software Engineer, Docker, Git, CMake, Plinth 2025, Odin's Eye App, CCell, Notification API, Java Spring Boot Developer, Indian Software Engineer, Student Developer, Hacktoberfest India, Praneel Dev LinkedIn, Praneel Dev GitHub, Praneel Dev Projects, Praneel Dev Portfolio
+### 🔹 C-Cell Official App (Flutter)  
+**Flutter • Firebase Auth • REST API**  
+Published onboarding and guidance app for **3,000+ students**.  
+Built home and profile screens from scratch, integrated Firebase login and custom notification API.  
+Repo: https://github.com/ccell2026/ccell
+
+---
+
+### 🔹 Odin’s Eye (Plinth 2025)  
+**Java • Android XML**  
+Integrated new UI from Figma into legacy codebase for a treasure-hunt event app used by **300–400 concurrent participants**.  
+Repo: https://github.com/icarusiftctts/Odins_eye_2025
+
+---
+
+## 📌 Achievements
+
+- **Hacktoberfest 2025 Super-Contributor** (6+ qualifying PRs across multiple repos)  
+- Built and deployed production apps serving **3,000+ real users**  
+- Designed scalable backend systems without Firebase limitations  
+- Experience deploying full AWS pipelines (Lambda, IAM, RDS, Redis, API Gateway)
+
+---
+
+## 📚 Currently Working On
+
+- improving system design and distributed backend patterns  
+- advanced state management in Flutter (Riverpod/Bloc)  
+- containerization and CI/CD for Spring Boot services
+
+---
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/praneel-dev-3b9754321/)  
+
+<!--C Developer, Dart Developer, Flutter Web, Full Stack Software Engineer, Docker, Git, CMake, Plinth 2025, Odin's Eye App, CCell, Notification API, Java Spring Boot Developer, Indian Software Engineer, Student Developer, Hacktoberfest India, Praneel Dev LinkedIn, Praneel Dev GitHub, Praneel Dev Projects, Praneel Dev Portfolio
 -->
